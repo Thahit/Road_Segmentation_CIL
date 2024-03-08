@@ -1,0 +1,10 @@
+train_data: "data/train_list.txt"
+val_data: "data/val_list.txt"
+device: "cuda"
+batch_size: 4
+num_epochs: 300
+num_epochs2: 50
+val_frequency: 1
+experiment_name: "m3_att2"
+prediction_threshold: 0.5
+load_pth: "output/m3_att2/model_checkpoint/best.pth"
