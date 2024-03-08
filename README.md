@@ -116,6 +116,12 @@ The results for training our models can be retrieved under the following wandb l
 * BAYESIAN m1: https://wandb.ai/cillab/road_segmentation/runs/0o2aqtmu
 * BAYESIAN m2: https://wandb.ai/cillab/learners-public/runs/bu5bkrkh
 
+## Authors
+* https://github.com/Thahit (me)
+* https://github.com/meyerdav
+* https://github.com/Berke-Ates
+* Marc Odermatt
+
 ## Acknowledgments  
 Sources:
 * Code skeleton based on: https://github.com/yl4579/StarGANv2-VC
